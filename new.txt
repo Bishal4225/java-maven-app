@@ -1,1 +1,1 @@
-testing Java Deployment
+testing Java Deployment using Maven
